@@ -59,8 +59,8 @@
 ![](https://komarev.com/ghpvc/?username=suleymanekmekci&color=green&style=plastic)
 
 ## :trophy: My Github Stats:
-![Suleyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suleymanekmekci) <!-- &hide=contribs,prs -->
+![Suleyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suleymanekmekci&theme=radical) <!-- &hide=contribs,prs  hide_langs_below=1-->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suleymanekmekci&theme=radical)
 
 
