@@ -1,6 +1,6 @@
 ### Hi there 👋
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=suleymanekmekci&color=green&style=plastic" alt="suleymanekmekci" /> </p>
-## :email: Find me on:
+
+##  :email: Find me on:
 
 <a href="https://twitter.com/sekmekci4">
   <img align="center" alt="Suleyman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -27,7 +27,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 
 </p>
@@ -37,8 +36,6 @@
 ## :blue_book: Blog posts:
 - [Node.JS Firebase Authentication (Using Firebase Auth with a Custom Node.js Server)](http://suleymanekmekci-blog.herokuapp.com/articles/nodejs-firebase-authentication-using-firebase-auth-with-a-custom-nodejs-server-and-nodejs-firebase-oturum-yonetimi-firebase-ile-nodejs-sunucusu-kullanarak-oturum-yonetimi-)
 - [Verify Clients Firebase Token at Node.js Server](http://suleymanekmekci-blog.herokuapp.com/articles/verify-clients-firebase-token-at-nodejs-server-and-firebase-istemciden-gelen-tokeni-nodejs-sunucusunda-dogrulama)
-- 
-**suleymanekmekci/suleymanekmekci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m currently working on [crwizard](https://crwizard.com/).
@@ -46,17 +43,8 @@
 - 📫 How to reach me: [Twitter - @sekmekci4](https://twitter.com/sekmekci4) , [Linkedin - @suleymanekmekci](https://www.linkedin.com/in/suleymanekmekci/)
 - ⚡ Fun fact: I can wiggle my ears
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-![](https://komarev.com/ghpvc/?username=suleymanekmekci&color=green&style=plastic)
 
 ## :trophy: My Github Stats:
 ![Suleyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suleymanekmekci&theme=radical) <!-- &hide=contribs,prs  hide_langs_below=1-->
@@ -64,3 +52,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suleymanekmekci&theme=radical)
 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=suleymanekmekci&color=green&style=plastic" alt="suleymanekmekci" /> </p>
