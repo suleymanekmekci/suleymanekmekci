@@ -27,14 +27,20 @@
 
 ##  :email: Find me on:
 <p ="center">
-<a href="https://twitter.com/sekmekci4">
-  <img align="center" alt="Suleyman's Twitter" height="40" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
 <a href="https://linkedin.com/in/suleymanekmekci">
   <img align="center" alt="Suleyman's Linkdein" height="40" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/suleymanekmekci">
   <img align="center" alt="Suleyman's Github" height="40" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="https://www.leetcode.com/suleymanekmekci" target="blank"><img align="center" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="suleymanekmekci" height="40" width="40" /></a>
+
+<a href="https://stackoverflow.com/users/14253522" target="blank"><img align="center" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="14253522" height="40" width="40" /></a>
+
+<a href="https://twitter.com/sekmekci4">
+  <img align="center" alt="Suleyman's Twitter" height="40" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://instagram.com/sekmekciii/">
   <img align="center" alt="Suleyman's Instagram" height="40" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
