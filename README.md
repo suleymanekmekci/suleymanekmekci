@@ -65,9 +65,5 @@
 </div>
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
  <img src="https://komarev.com/ghpvc/?username=suleymanekmekci&color=green&style=plastic" alt="suleymanekmekci" /> 
