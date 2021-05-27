@@ -3,7 +3,6 @@
 ## :boy: About me:
 - 🔭 I’m currently working on [crwizard](https://crwizard.com/).
 - 💬 Ask me about anything. I hope I can help :)
-- 📫 How to reach me: [Twitter - @sekmekci4](https://twitter.com/sekmekci4) , [Linkedin - @suleymanekmekci](https://www.linkedin.com/in/suleymanekmekci/)
 - ⚡ Fun fact: I can wiggle my ears
 
 ## 🧰 Languages and Tools:
@@ -21,6 +20,12 @@
 
 </p>
 
+<br />
+
+## :blue_book: Blog posts:
+- [Node.JS Firebase Authentication (Using Firebase Auth with a Custom Node.js Server)](http://suleymanekmekci-blog.herokuapp.com/articles/nodejs-firebase-authentication-using-firebase-auth-with-a-custom-nodejs-server-and-nodejs-firebase-oturum-yonetimi-firebase-ile-nodejs-sunucusu-kullanarak-oturum-yonetimi-)
+- [Verify Clients Firebase Token at Node.js Server](http://suleymanekmekci-blog.herokuapp.com/articles/verify-clients-firebase-token-at-nodejs-server-and-firebase-istemciden-gelen-tokeni-nodejs-sunucusunda-dogrulama)
+- 
 <br />
 
 ##  :email: Find me on:
@@ -44,9 +49,7 @@
 
 
 
-## :blue_book: Blog posts:
-- [Node.JS Firebase Authentication (Using Firebase Auth with a Custom Node.js Server)](http://suleymanekmekci-blog.herokuapp.com/articles/nodejs-firebase-authentication-using-firebase-auth-with-a-custom-nodejs-server-and-nodejs-firebase-oturum-yonetimi-firebase-ile-nodejs-sunucusu-kullanarak-oturum-yonetimi-)
-- [Verify Clients Firebase Token at Node.js Server](http://suleymanekmekci-blog.herokuapp.com/articles/verify-clients-firebase-token-at-nodejs-server-and-firebase-istemciden-gelen-tokeni-nodejs-sunucusunda-dogrulama)
+
 
 
 
