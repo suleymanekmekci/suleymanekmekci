@@ -35,9 +35,10 @@
   <img align="center" alt="Suleyman's Github" height="40" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://www.leetcode.com/suleymanekmekci" target="blank"><img align="center" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="suleymanekmekci" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/suleymanekmekci" target="blank">
+ <img align="center" alt="Suleyman's Leetcode" style="vertical-align:top; margin:4px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" width="40" /></a>
 
-<a href="https://stackoverflow.com/users/14253522" target="blank"><img align="center" style="vertical-align:top; margin:4px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="14253522" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/14253522" target="blank"><img align="center" style="vertical-align:top; margin:4px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="14253522" height="40" width="40" /></a>
 
 <a href="https://twitter.com/sekmekci4">
   <img align="center" alt="Suleyman's Twitter" height="40" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
