@@ -26,10 +26,7 @@
 <br />
 
 ##  :email: Find me on:
-<p 
-   
-   
-   ="center">
+<p ="center">
 <a href="https://twitter.com/sekmekci4">
   <img align="center" alt="Suleyman's Twitter" height="40" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
