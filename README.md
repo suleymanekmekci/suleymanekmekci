@@ -65,5 +65,7 @@
 </div>
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suleymanekmekci&color=green&style=plastic" alt="suleymanekmekci" /> </p>
+<br/>
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=suleymanekmekci&color=green&style=plastic" alt="suleymanekmekci" /> 
+</p>
