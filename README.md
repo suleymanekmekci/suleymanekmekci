@@ -63,11 +63,5 @@
 </div>
 
 
-<div>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suleymanekmekci&theme=radical)](https://github.com/suleymanekmekci)
-  [![Suleyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suleymanekmekci&theme=radical)](https://github.com/suleymanekmekci)
-
-</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suleymanekmekci&color=green&style=plastic" alt="suleymanekmekci" /> </p>
