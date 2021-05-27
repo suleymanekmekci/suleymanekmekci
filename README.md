@@ -19,6 +19,11 @@
 </p>
 <br />
 
+## :: Projects:
+- [PeetApp - Google Solution Challenge 2021](https://github.com/suleymanekmekci/Solution-Challenge-Pet-Care)
+- [Come2Gather - Redbull Basement 2020](https://play.google.com/store/apps/details?id=com.app.Come2Gather)
+- [Personal Blog](https://github.com/suleymanekmekci/blog)
+
 ## :blue_book: Blog posts:
 - [Node.JS Firebase Authentication (Using Firebase Auth with a Custom Node.js Server)](http://suleymanekmekci-blog.herokuapp.com/articles/nodejs-firebase-authentication-using-firebase-auth-with-a-custom-nodejs-server-and-nodejs-firebase-oturum-yonetimi-firebase-ile-nodejs-sunucusu-kullanarak-oturum-yonetimi-)
 - [Verify Clients Firebase Token at Node.js Server](http://suleymanekmekci-blog.herokuapp.com/articles/verify-clients-firebase-token-at-nodejs-server-and-firebase-istemciden-gelen-tokeni-nodejs-sunucusunda-dogrulama)
