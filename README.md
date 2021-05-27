@@ -60,7 +60,7 @@
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=suleymanekmekci&theme=radical" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=suleymanekmekci&theme=radical">
-  <img align="left" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suleymanekmekci&theme=radical" />
+  <img align="left" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suleymanekmekci&theme=radical" />
 </a>
 </div>
 
