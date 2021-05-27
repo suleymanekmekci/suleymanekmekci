@@ -53,6 +53,8 @@
 <br/>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suleymanekmekci&color=green&style=plastic" alt="suleymanekmekci" /> </p>
+
 ## :trophy: My Github Stats:
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=suleymanekmekci&theme=radical">
@@ -63,6 +65,4 @@
 </a>
 </div>
 
-<br/>
-<br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suleymanekmekci&color=green&style=plastic" alt="suleymanekmekci" /> </p>
+
