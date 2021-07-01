@@ -44,9 +44,7 @@
 <a href="https://twitter.com/sekmekci4">
   <img align="center" alt="Suleyman's Twitter" height="40" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://instagram.com/sekmekciii/">
-  <img align="center" alt="Suleyman's Instagram" height="40" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
 <p/>
 
 <br/>
