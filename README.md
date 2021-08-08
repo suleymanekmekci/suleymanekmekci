@@ -22,7 +22,7 @@
 ## :hammer: Projects:
 - [PetCare - Google Solution Challenge 2021](https://github.com/suleymanekmekci/Solution-Challenge-Pet-Care)
 - [Come2Gather - Redbull Basement 2020](https://play.google.com/store/apps/details?id=com.app.Come2Gather)
-- [Personal Blog](https://github.com/suleymanekmekci/blog)
+- [Personal Blog](https://suleymanekmekci-blog.herokuapp.com/)
 
 ## :blue_book: Blog posts:
 - [Node.JS Firebase Authentication (Using Firebase Auth with a Custom Node.js Server)](http://suleymanekmekci-blog.herokuapp.com/articles/nodejs-firebase-authentication-using-firebase-auth-with-a-custom-nodejs-server-and-nodejs-firebase-oturum-yonetimi-firebase-ile-nodejs-sunucusu-kullanarak-oturum-yonetimi-)
