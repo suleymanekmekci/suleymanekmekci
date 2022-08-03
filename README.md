@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 ## :boy: About me:
-- 🔭 I’m currently working at [Getir](https://getir.com/).
+- 🔭 I’m currently working at Bloomberg.
 - 💬 Ask me about anything. I hope I can help :)
-- ⚡ Fun fact: I can wiggle my ears
-- 💻 Check out my website from [here](http://suleymann.me/)!
 
 ## 🧰 Languages and Tools:
 
