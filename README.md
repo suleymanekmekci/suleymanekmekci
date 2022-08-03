@@ -30,9 +30,6 @@
 
 ##  :email: Find me on:
 <p align="center">
- <a href="http://suleymann.me">
-  <img align="center" alt="Suleyman's Website" height="40" style="vertical-align:top; margin:4px" src="https://cdn.icon-icons.com/icons2/1875/PNG/512/web_120072.png" />
-</a>
 <a href="https://linkedin.com/in/suleymanekmekci">
   <img align="center" alt="Suleyman's Linkedin" height="40" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
