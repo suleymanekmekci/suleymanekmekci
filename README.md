@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## :boy: About me:
-- 🔭 I’m currently working at Bloomberg.
+- 🔭 I’m currently working at Zash.
 - 💬 Ask me about anything. I hope I can help :)
 
 ## 🧰 Languages and Tools:
