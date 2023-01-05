@@ -49,8 +49,6 @@
 <br/>
 
 
-
-## :trophy: My Github Stats:
 <div>
 
 <p align="center">
