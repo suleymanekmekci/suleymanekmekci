@@ -52,14 +52,6 @@
 
 ## :trophy: My Github Stats:
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=suleymanekmekci&theme=radical">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=suleymanekmekci&theme=radical" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=suleymanekmekci&theme=radical">
-  <img align="left" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suleymanekmekci&theme=radical" />
-</a>
-</div>
-
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=suleymanekmekci&color=green&style=plastic" alt="suleymanekmekci" /> 
